@@ -5,6 +5,7 @@ import '../models/movie.dart';
 // ignore: unused_import
 import '../models/genre.dart';
 
+
 class MovieService {
   final String baseUrl;
   final String apiKey;
